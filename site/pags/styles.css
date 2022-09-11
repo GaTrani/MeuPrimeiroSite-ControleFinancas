@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/*
+class = .classe
+id = #id
+*/
+
+.frameCriar{
+    text-align: center;
+    margin: auto;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(24, 146, 89);    
+}
+
+.textCriar, input{
+    margin: 5;
+}
+
+.containerCriar2{
+    align-content: flex-end;
+}
