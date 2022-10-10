@@ -5,12 +5,9 @@ class = .classe
 id = #id
 */
 
-.frameCriar{
-    text-align: center;
-    margin: auto;
-    height: 300px;
-    width: 250px;
-    background-color: rgb(24, 146, 89);    
+.containerform{
+    width: auto;
+    height: auto;
 }
 
 .textCriar, input{
