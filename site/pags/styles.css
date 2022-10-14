@@ -5,16 +5,12 @@ class = .classe
 id = #id
 */
 
-.containerform{
-    margin: 50;
-    width: auto;
-    height: auto;
+.containerGeral{
+    background-color: rgb(202, 144, 144);
+    padding: 20px;
 }
 
-.textCriar, input{
-    margin: 5;
+.linha{
+    padding: 10px;
 }
 
-.containerCriar0{
-    align-content: flex-end;
-}
